@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joohyung Park</title>
+    <link>https://joohyung-park.github.io/joohyung-park-blog/</link>
+    <description>Recent content on Joohyung Park</description>
+    <image>
+      <title>Joohyung Park</title>
+      <url>https://joohyung-park.github.io/images/og-cover.png</url>
+      <link>https://joohyung-park.github.io/images/og-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joohyung-park.github.io/joohyung-park-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naver_AHM</title>
+      <link>https://joohyung-park.github.io/joohyung-park-blog/posts/naver_ahm/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://joohyung-park.github.io/joohyung-park-blog/posts/naver_ahm/</guid>
+      <description>Naver All hands meeting</description>
+    </item>
+  </channel>
+</rss>
